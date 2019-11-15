@@ -1,1 +1,1 @@
-# UINavigationController
+# 自定义UINavigationController 使页面支持侧滑返回 也可用第三方框架FDFullscreenPopGesture解决
